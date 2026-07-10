@@ -1,4 +1,4 @@
-# ad-copy-generator-skill
+# genpark-ad-copy-generator-skill
 
 > **GenPark AI Agent Skill** -- Generate A/B tested ad copy for Google Search, Google Shopping, Meta, and TikTok with character limit compliance.
 
