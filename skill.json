@@ -1,5 +1,5 @@
 {
-  "name": "ad-copy-generator-skill",
+  "name": "genpark-ad-copy-generator-skill",
   "version": "1.0.0",
   "description": "GenPark AI Agent Skill - Generate A/B tested ad copy variants for Google Search, Google Shopping, Meta (Facebook/Instagram), and TikTok ads with character limit compliance.",
   "author": "genpark",
